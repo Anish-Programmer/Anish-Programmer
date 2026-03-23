@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Tamang</h1>
-<h3 align="center">Aspiring MERN stack Developer</h3>
+<h3 align="center">MERN stack Developer</h3>
 
 <p align="left"> <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774272494/profile_banner_jd4htw.png" alt="anish-programmer" /> </p>
 
