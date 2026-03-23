@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="anish-programmer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774271212/linkedin_banner_t8llvf.jpg" alt="anish-programmer" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="anish-programmer" /></a> </p>
 
 - 🔭 I’m currently working on **note-taking MERN web app**
 
