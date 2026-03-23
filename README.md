@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Tamang</h1>
 <h3 align="center">Aspiring MERN stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-programmer&label=Profile%20views&color=0e75b6&style=flat" alt="anish-programmer" /> </p>
+<p align="left"> <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774271935/profile_banner_la7xtr.png" alt="anish-programmer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="" alt="anish-programmer" /></a> </p>
 
