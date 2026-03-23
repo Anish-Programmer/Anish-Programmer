@@ -3,18 +3,6 @@
 
 <p align="left"> <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774272494/profile_banner_jd4htw.png" alt="anish-programmer" /> </p>
 
-- 🔭 I’m currently working on **note-taking MERN web app**
-
-- 🌱 I’m currently learning **TypeScript, Docker**
-
-- 👯 I’m looking to collaborate on **MERN project**
-
-- 👨‍💻 All of my projects are available at [https://stupendous-fenglisu-b4489a.netlify.app/](https://stupendous-fenglisu-b4489a.netlify.app/)
-
-- 💬 Ask me about **MERN stack**
-
-- 📫 How to reach me **at7anish@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anish-tamang-249a8536a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anish-tamang-249a8536a" height="30" width="40" /></a>
