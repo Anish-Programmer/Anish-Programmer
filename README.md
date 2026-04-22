@@ -1,12 +1,27 @@
 <div style="font-family: 'Fira Code', 'Courier New', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; line-height: 1.6; color: #E8F5FF;">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                             CLEAN HEADER STYLE                             -->
+<!--                    TERMINAL-STYLE HEADER / HACKER VIBE                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <h1 style="font-size: 4rem; margin-bottom: 0.25rem;">Anish Tamang</h1>
-  <p style="font-size: 1.25rem; color: #B4D6FF; margin-top: 0;">Full-Stack Developer crafting scalable web solutions</p>
+<div align="center" style="max-width: 920px; margin: 0 auto;">
+  <div style="background: #020617; border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; padding: 32px 32px 28px; text-align: left; box-shadow: 0 24px 60px rgba(0,0,0,0.30);">
+    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 18px;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
+      <span style="color: #7a8fa6; font-size: 0.95rem;">~/github/anish-programmer</span>
+    </div>
+    <div style="font-size: 3rem; font-weight: 700; margin-bottom: 8px;">Anish Tamang</div>
+    <div style="color: #87c4ff; font-size: 1.05rem; margin-bottom: 24px;">Full-Stack Developer crafting scalable web solutions</div>
+    <pre style="background: rgba(19, 41, 64, 0.6); border-radius: 14px; padding: 18px 22px; color: #96d0ff; font-family: 'Fira Code', monospace; font-size: 0.95rem; line-height: 1.6; overflow-x: auto;">
+$ git clone https://github.com/anish-programmer
+$ cd portfolio
+$ npm install
+$ npm run build
+$ echo "deploying code to the ocean"
+    </pre>
+  </div>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
