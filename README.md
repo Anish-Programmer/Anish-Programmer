@@ -1,21 +1,12 @@
 <div style="font-family: 'Fira Code', 'Courier New', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; line-height: 1.6; color: #E8F5FF;">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    🌟 ANIMATED HEADER WITH WAVE EFFECT 🌟                  -->
+<!--                             CLEAN HEADER STYLE                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,8,18,32&height=280&section=header&text=Anish%20Tamang&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=55&descSize=18" width="100%" alt="header"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        ⚡ TYPING ANIMATION ⚡                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DE5FF&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hi+there!+👋+I'm+Anish+Tamang;🚀+MERN+Stack+Developer;💻+Software+Engineer+%7C+Problem+Solver;⚛️+React+%26+TypeScript+Enthusiast;🐳+Docker+%7C+Node.js+%7C+Express;✨+Crafting+AI-powered+tools" alt="Typing SVG" />
-  </a>
+  <h1 style="font-size: 4rem; margin-bottom: 0.25rem;">Anish Tamang</h1>
+  <p style="font-size: 1.25rem; color: #B4D6FF; margin-top: 0;">Full-Stack Developer crafting scalable web solutions</p>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
