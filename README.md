@@ -1,50 +1,29 @@
 <div style="font-family: 'Fira Code', 'Courier New', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; line-height: 1.6; color: #E8F5FF;">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    TERMINAL-STYLE HEADER / HACKER VIBE                   -->
+<!--                        INTERACTIVE PROFILE HEADER                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center" style="max-width: 920px; margin: 0 auto;">
-  <div style="background: #020617; border: 1px solid rgba(255,255,255,0.08); border-radius: 20px; padding: 32px 32px 28px; text-align: left; box-shadow: 0 24px 60px rgba(0,0,0,0.30);">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 18px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
-      <span style="color: #7a8fa6; font-size: 0.95rem;">~/github/anish-programmer</span>
-    </div>
-    <div style="font-size: 3rem; font-weight: 700; margin-bottom: 8px;">Anish Tamang</div>
-    <div style="color: #87c4ff; font-size: 1.05rem; margin-bottom: 24px;">Full-Stack Developer crafting scalable web solutions</div>
-    <pre style="background: rgba(19, 41, 64, 0.6); border-radius: 14px; padding: 18px 22px; color: #96d0ff; font-family: 'Fira Code', monospace; font-size: 0.95rem; line-height: 1.6; overflow-x: auto;">
-$ git clone https://github.com/anish-programmer
-$ cd portfolio
-$ npm install
-$ npm run build
-$ echo "deploying code to the ocean"
-    </pre>
-  </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=gradient&customColorList=001830,003058,004880&height=220&section=header&text=Anish%20Tamang&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20Cloud&descAlignY=60&descSize=16" width="100%" alt="header"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                   📊 PROFILE BADGES & VISITOR COUNTER 📊                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anish-programmer&label=Profile%20Views&color=0A6BBB&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/anish-programmer?label=Followers&style=for-the-badge&color=0A6BBB&labelColor=021f3d" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/anish-programmer?label=Stars&style=for-the-badge&color=0A6BBB&labelColor=021f3d" alt="stars"/>
-  <a href="https://github.com/anish-programmer?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20To-Collaboration-03396C?style=for-the-badge&labelColor=021f3d&logo=github&logoColor=ffffff" alt="open to collab"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!--                            🎨 BANNER IMAGE 🎨                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<p align="center"> 
-  <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774272494/profile_banner_jd4htw.png" alt="Anish Tamang Banner" width="100%"/> 
-</p>
+<div align="center" style="margin-top: 22px;">
+  <div style="display: inline-flex; gap: 12px; flex-wrap: wrap; justify-content: center; max-width: 920px;">
+    <a href="https://github.com/anish-programmer" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0B1D2E&labelColor=07111A" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/anish-tamang-249a8536a" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=07111A" alt="LinkedIn" />
+    </a>
+    <a href="https://loadsense.vercel.app/login" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Live-LoadSense-00A8E8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=07111A" alt="LoadSense" />
+    </a>
+    <a href="https://anish-tamang-recycle-sewa.vercel.app/" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Live-Recycle%20Sewa-1783C4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=07111A" alt="Recycle Sewa" />
+    </a>
+  </div>
+</div>
 
 ---
 
