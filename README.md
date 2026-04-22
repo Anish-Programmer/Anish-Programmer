@@ -1,11 +1,15 @@
 <div style="font-family: 'Fira Code', 'Courier New', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; line-height: 1.6; color: #E8F5FF;">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        INTERACTIVE PROFILE HEADER                         -->
+<!--                            BANNER HEADER STYLE                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0077B6,0096C7,00B4D8&height=240&section=header&text=Anish%20Tamang&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=60&descSize=18" width="100%" alt="header"/>
+  <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774272494/profile_banner_jd4htw.png" alt="Anish Tamang Banner" width="100%" />
+</div>
+
+<div align="center" style="margin-top: 22px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3DE5FF&center=true&vCenter=true&multiline=false&width=760&height=70&lines=Hi+there+👋+I'm+Anish+Tamang;Full-Stack+Developer+%7C+MERN+Stack+%2B+Cloud;Building+scalable+web+apps+with+purpose" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin-top: 18px;">
@@ -15,10 +19,6 @@
     <img src="https://img.shields.io/github/stars/anish-programmer?label=Stars&style=for-the-badge&color=00A8E8&labelColor=021f3d" alt="stars" />
   </div>
 </div>
-
-<p align="center" style="margin-top: 24px;">
-  <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774272494/profile_banner_jd4htw.png" alt="Anish Tamang Banner" width="100%" />
-</p>
 
 ---
 
