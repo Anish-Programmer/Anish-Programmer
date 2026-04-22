@@ -1,9 +1,11 @@
+<div style="font-family: 'Fira Code', 'Courier New', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; line-height: 1.6; color: #E8F5FF;">
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                    🌟 ANIMATED HEADER WITH WAVE EFFECT 🌟                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,13,26,35&height=280&section=header&text=Anish%20Tamang&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=55&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,8,18,32&height=280&section=header&text=Anish%20Tamang&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=55&descSize=18" width="100%" alt="header"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -12,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hi+there!+👋+I'm+Anish+Tamang;🚀+MERN+Stack+Developer;💻+Software+Engineer+%7C+Problem+Solver;⚛️+React+%26+TypeScript+Enthusiast;🐳+Docker+%7C+Node.js+%7C+Express;✨+Crafting+AI-powered+tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DE5FF&center=true&vCenter=true&multiline=false&width=750&height=70&lines=Hi+there!+👋+I'm+Anish+Tamang;🚀+MERN+Stack+Developer;💻+Software+Engineer+%7C+Problem+Solver;⚛️+React+%26+TypeScript+Enthusiast;🐳+Docker+%7C+Node.js+%7C+Express;✨+Crafting+AI-powered+tools" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,11 +23,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anish-programmer&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/anish-programmer?label=Followers&style=for-the-badge&color=00f7ff&labelColor=0d1117" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/anish-programmer?label=Stars&style=for-the-badge&color=00f7ff&labelColor=0d1117" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=anish-programmer&label=Profile%20Views&color=0A6BBB&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/anish-programmer?label=Followers&style=for-the-badge&color=0A6BBB&labelColor=021f3d" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/anish-programmer?label=Stars&style=for-the-badge&color=0A6BBB&labelColor=021f3d" alt="stars"/>
   <a href="https://github.com/anish-programmer?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20To-Collaboration-brightgreen?style=for-the-badge&labelColor=0d1117" alt="open to collab"/>
+    <img src="https://img.shields.io/badge/Open%20To-Collaboration-03396C?style=for-the-badge&labelColor=021f3d&logo=github&logoColor=ffffff" alt="open to collab"/>
   </a>
 </p>
 
@@ -193,7 +195,7 @@ const anish = {
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,13,26,35&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,8,18,32&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
 </div>
 
 <p align="center">
@@ -203,3 +205,4 @@ const anish = {
 <p align="center">
   <sub>🔥 <i>"First, solve the problem. Then, write the code."</i> — John Johnson 🔥</sub>
 </p>
+</div>
