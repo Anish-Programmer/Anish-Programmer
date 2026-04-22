@@ -5,42 +5,21 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, #001830 0%, #00325e 100%); border-radius: 28px; padding: 36px 32px; max-width: 980px; box-shadow: 0 30px 70px rgba(0, 0, 0, 0.30);">
-    <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 18px;">
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
-      <span style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
-      <span style="color: #9ecbff; font-size: 0.95rem;">~/github/anish-programmer</span>
-    </div>
-    <h1 style="margin: 0; font-size: 3.5rem; color: #ffffff; letter-spacing: -0.03em;">Anish Tamang</h1>
-    <p style="margin: 12px auto 0; max-width: 760px; color: #c9e7ff; font-size: 1.1rem; line-height: 1.7;">Full-Stack Developer building polished MERN products with cloud-ready infrastructure and performance-first UX.</p>
-    <div style="margin-top: 24px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">React</span>
-      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">TypeScript</span>
-      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">Node.js</span>
-      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">Docker</span>
-    </div>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0077B6,0096C7,00B4D8&height=240&section=header&text=Anish%20Tamang&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=60&descSize=18" width="100%" alt="header"/>
+</div>
+
+<div align="center" style="margin-top: 18px;">
+  <div style="display: inline-flex; gap: 10px; flex-wrap: wrap; justify-content: center; max-width: 920px;">
+    <img src="https://komarev.com/ghpvc/?username=anish-programmer&label=Profile%20Views&color=00A8E8&style=for-the-badge" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/anish-programmer?label=Followers&style=for-the-badge&color=00A8E8&labelColor=021f3d" alt="followers" />
+    <img src="https://img.shields.io/github/stars/anish-programmer?label=Stars&style=for-the-badge&color=00A8E8&labelColor=021f3d" alt="stars" />
   </div>
 </div>
 
-<div align="center" style="margin-top: 22px;">
-  <div style="display: inline-flex; gap: 12px; flex-wrap: wrap; justify-content: center; max-width: 920px;">
-    <a href="https://github.com/anish-programmer" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=0B1D2E&labelColor=07111A" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/anish-tamang-249a8536a" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&labelColor=07111A" alt="LinkedIn" />
-    </a>
-    <a href="https://loadsense.vercel.app/login" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Live-LoadSense-00A8E8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=07111A" alt="LoadSense" />
-    </a>
-    <a href="https://anish-tamang-recycle-sewa.vercel.app/" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Live-Recycle%20Sewa-1783C4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=07111A" alt="Recycle Sewa" />
-    </a>
-  </div>
-</div>
+<p align="center" style="margin-top: 24px;">
+  <img src="https://res.cloudinary.com/dpgfadtxn/image/upload/v1774272494/profile_banner_jd4htw.png" alt="Anish Tamang Banner" width="100%" />
+</p>
 
----
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
