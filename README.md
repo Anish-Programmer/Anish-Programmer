@@ -5,7 +5,22 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=gradient&customColorList=001830,003058,004880&height=220&section=header&text=Anish%20Tamang&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20Cloud&descAlignY=60&descSize=16" width="100%" alt="header"/>
+  <div style="background: linear-gradient(135deg, #001830 0%, #00325e 100%); border-radius: 28px; padding: 36px 32px; max-width: 980px; box-shadow: 0 30px 70px rgba(0, 0, 0, 0.30);">
+    <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 18px;">
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
+      <span style="width: 12px; height: 12px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
+      <span style="color: #9ecbff; font-size: 0.95rem;">~/github/anish-programmer</span>
+    </div>
+    <h1 style="margin: 0; font-size: 3.5rem; color: #ffffff; letter-spacing: -0.03em;">Anish Tamang</h1>
+    <p style="margin: 12px auto 0; max-width: 760px; color: #c9e7ff; font-size: 1.1rem; line-height: 1.7;">Full-Stack Developer building polished MERN products with cloud-ready infrastructure and performance-first UX.</p>
+    <div style="margin-top: 24px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">React</span>
+      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">TypeScript</span>
+      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">Node.js</span>
+      <span style="background: rgba(255,255,255,0.08); color: #d9f3ff; padding: 10px 14px; border-radius: 999px; font-size: 0.95rem;">Docker</span>
+    </div>
+  </div>
 </div>
 
 <div align="center" style="margin-top: 22px;">
@@ -25,6 +40,7 @@
   </div>
 </div>
 
+---
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
