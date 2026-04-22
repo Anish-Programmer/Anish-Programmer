@@ -137,6 +137,23 @@ const anish = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                      🏆 FEATURED PROJECTS 🏆                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://loadsense.vercel.app/login" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Project-LoadSense-0A6BBB?style=for-the-badge&logo=vercel&logoColor=white" alt="LoadSense" />
+  </a>
+  <a href="https://anish-tamang-recycle-sewa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Project-Recycle%20Sewa-034078?style=for-the-badge&logo=vercel&logoColor=white" alt="Recycle Sewa" />
+  </a>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                       📊 GITHUB ANALYTICS 📊                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
