@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Anish%20Tamang&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=55&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,13,26,35&height=280&section=header&text=Anish%20Tamang&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20crafting%20scalable%20web%20solutions&descAlignY=55&descSize=18" width="100%" alt="header"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -30,19 +30,7 @@
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                         💭 FAMOUS DEV QUOTE 💭                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-> ### 💭 *"Talk is cheap. Show me the code."*
-> **— Linus Torvalds**, Creator of Linux & Git
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                            🎨 BANNER IMAGE 🎨                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -57,8 +45,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 🧑‍💻 About Me
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ```javascript
 const anish = {
@@ -83,12 +69,6 @@ const anish = {
     funFact: "I turn ☕ into 💻"
 };
 ```
-
-- 🔭 **Currently working on:** scalable MERN applications
-- 🌱 **Learning:** System Design, Cloud Architecture & DevOps
-- 👯 **Looking to collaborate on:** Open Source Projects
-- 💬 **Ask me about:** React, Node.js, Docker & TypeScript
-- ⚡ **Fun fact:** I debug with `console.log` and I'm not ashamed 😎
 
 ---
 
@@ -155,34 +135,6 @@ const anish = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     🏆 FEATURED PROJECTS 🏆                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/anish-programmer/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anish-programmer&repo=project-one&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anish-programmer/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anish-programmer&repo=project-two&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/anish-programmer/project-three">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anish-programmer&repo=project-three&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anish-programmer/project-four">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anish-programmer&repo=project-four&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 *Replace `project-one`, `project-two`, etc. with your actual repository names.*
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                       📊 GITHUB ANALYTICS 📊                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -206,38 +158,8 @@ const anish = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🏅 GITHUB TROPHIES 🏅                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anish-programmer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies"/>
-  </a>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        🐍 CONTRIBUTION SNAKE 🐍                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anish-programmer/anish-programmer/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anish-programmer/anish-programmer/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/anish-programmer/anish-programmer/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                       ✨ RANDOM DEV QUOTE ✨                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## ✨ Dev Quote of the Day
 
@@ -248,24 +170,9 @@ const anish = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                       💡 FUN CODING FACTS 💡                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
-
-## 💡 Why I Code
-
-<div align="center">
-  
-| 💻 **Build** | 🚀 **Deploy** | 🌱 **Grow** |
-|:---:|:---:|:---:|
-| *Turning ideas into reality* | *Shipping products that matter* | *Learning something new every day* |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 <!--                         🤝 LET'S CONNECT! 🤝                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
 
@@ -286,7 +193,7 @@ const anish = {
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,13,26,35&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
 </div>
 
 <p align="center">
